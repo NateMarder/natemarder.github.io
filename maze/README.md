@@ -1,3 +1,3 @@
-# Hello. This is a maze.\
+# Hello. This is a maze
 
-## https://natemarder.github.io/maze/
+## https://natemarder.github.io/maze/index.html
